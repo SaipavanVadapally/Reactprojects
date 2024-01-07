@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore system and hidden files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files and directories
+/.bash_history
+/.cache/
+/.config/
+/.dotnet/
+/.eclipse/
+/.gitconfig
+/.lesshst
+/.librarymanager/
+/.node_repl_history
+/.nuget/
+/.p2/
+/.ssh/
+/.vscode/
+/3D Objects/
+/AppData/
+/Contacts/
+/Creative Cloud Files/
+/Desktop/
+/Documents/
+/Downloads/
+/Favorites/
+/IBA_IOAPDATA/
+/IntelGraphicsProfiles/
+/Links/
+/Music/
+/NTUSER.DAT*
+/NTUSER.INI
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
+/eclipse-workspace/
+/eclipse/
+/source/
+
