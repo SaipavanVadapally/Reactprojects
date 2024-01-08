@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-router-dom": "^2.2.11",
+    "vite": "^5.0.11"
+  },
+  
+  "scripts": {
+    "dev": "react-scripts start"
+  }
+}
