@@ -3,11 +3,11 @@
 /* This styles the parent container */
 .App {
   display: flex;
-  justify-content: center; /* Centers horizontally */
-  align-items: center; /* Centers vertically */
-  height: 100vh; /* Full viewport height */
-  padding: 20px; /* Optional: Adds some padding around the accordion */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
+
 
 /* Styles for the accordion component, if needed */
 .accordion-item {
